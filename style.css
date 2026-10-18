@@ -20,3 +20,11 @@ a:focus-visible { outline: 2px solid currentColor; outline-offset: 3px; }
 }
 
 .example-prompt { margin-top: 1em; }
+
+a.green-link, a.green-link:visited { color: #167029; }
+p.resource-note { margin: 1em 0; }
+
+.green-text { color: #167029; }
+h2 { font-size: 1.15em; margin: 1em 0 0.5em; }
+blockquote.example-prompt { margin: 1em 0; padding-left: 1em; border-left: 3px solid #ccc; }
+li { margin: 0.5em 0; }

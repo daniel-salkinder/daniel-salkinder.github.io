@@ -20,7 +20,7 @@ Solutions is plain, disabled text until its file is available. To enable one, re
 
 - `index.html`: homepage, email, and office hours.
 - `math1200.html`: calculus coaching materials.
-- `study-guides.html`: study guide materials.
+- `experimental-resources.html`: guidance for experimental resources and the example LLM prompt.
 - `style.css`: shared minimal styling.
 
 All local links are relative so the site also works under a GitHub Pages repository subpath.
@@ -37,3 +37,7 @@ To publish later changes or PDFs, upload or commit them to the same branch.
 ## Preview locally
 
 Open `index.html` in your browser, or run `python3 -m http.server 8000` from this folder and visit `http://localhost:8000`.
+
+## LLM resource convention
+
+Use `class="green-link"` for LLM Study Guide PDF links (including visited links). Ordinary PDFs retain the default link color. Keep PDF links opening in new tabs with `target="_blank" rel="noopener"`. The experimental resource guidance and example prompt live in `experimental-resources.html`.
