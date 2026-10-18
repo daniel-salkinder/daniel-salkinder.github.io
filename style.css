@@ -1,0 +1,22 @@
+/* Plain academic homepage: browser-native typography and links. */
+body {
+  margin: 24px;
+  color: #111;
+  background: #fff;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 17px;
+  line-height: 1.17;
+}
+main { max-width: 900px; }
+h1 { font-size: 1.4em; line-height: 1.17; margin: 0 0 0.5em; }
+p { margin: 0.33em 0; }
+p.study-guides-link { margin: 1em 0; }
+a { color: #0000ee; }
+a:visited { color: #551a8b; }
+a:focus-visible { outline: 2px solid currentColor; outline-offset: 3px; }
+.note, small { color: #555; font-size: 0.9em; }
+@media (max-width: 480px) {
+  body { margin: 16px; }
+}
+
+.example-prompt { margin-top: 1em; }
