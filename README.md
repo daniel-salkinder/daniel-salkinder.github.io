@@ -9,12 +9,15 @@ PDFs live under `pdfs/Math 1200/`. The pages currently use these files:
 | Website link | File |
 | --- | --- |
 | Partial Derivatives and Optimization | `Coaching/Problems - Math 1200 Coaching Session 1.pdf` |
+| Study Guide 2 | `Coaching/Study Guide - Math 1200 Coaching Session 2.pdf` |
+| Problems 2 | `Coaching/Problems - Math 1200 Coaching Session 2.pdf` |
+| Solutions 2 | `Coaching/Solutions - Math 1200 Coaching Session 2.pdf` |
 | Preview Session 1: Trigonometry | `Review Sessions/Review Session 1.pdf` |
 | Preview Session 2: Parametric Equations | `Review Sessions/Review Session 2.pdf` |
 | Preview Session 3: Optimization | `Review Sessions/Review Session 3.pdf` |
 | Exam 1 Study Guide | `Study Guides/Exam 1 Recall.pdf` |
 
-Solutions is plain, disabled text until its file is available. To enable one, replace its `<span>` with an `<a href="...">` pointing to the new PDF. Paths are relative to the HTML file; encode spaces as `%20` in links. You can keep your own filenames and folder structure.
+Paths are relative to the HTML file; encode spaces as `%20` in links. You can keep your own filenames and folder structure.
 
 ## Edit content
 
